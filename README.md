@@ -1,5 +1,5 @@
 # Image-Processing-Tool
-Created with the assistance of Dr. Mohamed El Ramly during the course ECNG 1502: Programming for Electrical Engineers, Fall 2020. 
+Created under the supervision of Dr. Mohamed El Ramly during the course ECNG 1502: Programming for Electrical Engineers, Fall 2020. 
 
 The code is in C 
 two (.c) files and one header file (.h)
