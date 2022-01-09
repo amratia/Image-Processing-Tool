@@ -1,4 +1,4 @@
-// AUC – ECNG 1502 – Fall 2020 - Assignment 4
+// AUC â€“ ECNG 1502 â€“ Fall 2020 - Assignment 4
 // Program Name: Image Processing Tool.c
 // Purpose: Manipulate images by applying filters
 // Last Modification Date: 27/11/2020
